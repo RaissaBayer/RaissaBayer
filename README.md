@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Meu nome é Raissa</h1>
-<h3 align="center">Trabalho com desenvolvimento de Softwares e também modelagem e gamificação.</h3>
+<h3 align="center">Trabalho com desenvolvimento de Software, modelagem e gamificação.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
